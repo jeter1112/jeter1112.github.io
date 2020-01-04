@@ -1,0 +1,17 @@
+p{
+    color:blue;
+
+}
+body{
+    background-color: bisque;
+    padding: 50px;
+
+    border: black solid 20px;
+}
+
+h1, ul,a{
+    font-style: italic;
+}
+a:hover{
+    border: yellow solid 10px;
+}
